@@ -23,6 +23,8 @@ public abstract class AbstractModelObject implements IModelObject {
     assert (builder != null);
   }
 
+
+
   /**
    * Returns a String representation of this model object in the style:<p>
    * {@code ModelObject(attr1=value1, attr2=value2, ...)}
